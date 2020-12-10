@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **YooMoney rebranding**...
+- 🌱 I’m currently learning Python and Java
+- 👯 I’m looking to collaborate on opensource projects
+- 🤔 I’m looking for help with Docker, docker-compose, kubernetes
+- 💬 Ask me about PHP, JavaScript, HTML, CSS (SASS, LESS)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tonchik/)
