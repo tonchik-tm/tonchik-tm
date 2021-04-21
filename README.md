@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - Test
 -->
 
-- 🔭 I’m currently working on **YooMoney rebranding**...
+- 🔭 I’m currently working on **YooMoney in Viber**...
 - 🌱 I’m currently learning Python and Java
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with Docker, docker-compose, kubernetes
